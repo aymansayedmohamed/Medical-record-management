@@ -1,0 +1,58 @@
+﻿
+<div class="container main" ng-controller="homeController">
+    <br />
+    <div>
+        <label ng-show="Error=='true'" class="label-danger"> Error occurred,Please try again or call support team</label>
+        <label ng-show="Delivered=='true'" class="label-default"> Email Sent success </label>
+    </div>
+    <div>
+        <div class="col-md-3">
+            <input type="text" class="form-control" placeholder="SocialNumber" ng-model="SocialNumber" />
+        </div>
+        <div class="col-md-3">
+            <button type="button" class="btn btn-primary" ng-click="GetMedicalRecords()">Search</button>
+        </div>
+        <div class="col-md-3">
+            <button type="button" class="btn btn-default" ng-click="DeliverByMail()">Send By Email</button>
+        </div>
+    </div><br />
+    
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th scope="col">Name</th>
+                <th scope="col">Social Number</th>
+                <th scope="col">Hospital</th>
+                <th scope="col">Doctor</th>
+                <th scope="col">Medicines</th>
+                <th scope="col">Surgeries</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr ng-repeat="item in MedicalHistory">
+                <td>{{item.PatientName}}</td>
+                <td>{{item.SocialNumber}}</td>
+                <td>{{item.Hospital.Name}}</td>
+                <td>{{item.Doctor.Name}}</td>
+                <td>
+                    <ul>
+                        <li ng-repeat="med in item.Medicines">
+                            {{med.Name}}
+                        </li>
+                    </ul>
+                </td>
+                <td>
+                    <ul>
+                        <li ng-repeat="sur in item.Surgeries">
+                            {{sur.Name}}
+                        </li>
+                    </ul>
+                </td>
+            </tr>
+            <tr ng-show="MedicalHistory.length<1">
+                <td class="text-center" colspan="6">No records found</td>
+            </tr>
+        </tbody>
+    </table>
+
+</div>

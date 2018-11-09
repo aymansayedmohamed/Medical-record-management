@@ -1,0 +1,6 @@
+D:\Evaluation\POC\MedicalRecordManagement\.vs\MedicalRecordManagement\lut\0\b\APIS\bin\ApplicationInsights.config
+D:\Evaluation\POC\MedicalRecordManagement\.vs\MedicalRecordManagement\lut\0\b\APIS\bin\APIS.dll.config
+D:\Evaluation\POC\MedicalRecordManagement\.vs\MedicalRecordManagement\lut\0\b\APIS\bin\APIS.dll
+D:\Evaluation\POC\MedicalRecordManagement\.vs\MedicalRecordManagement\lut\0\i\APIS\Debug\APIS.csproj.CoreCompileInputs.cache
+D:\Evaluation\POC\MedicalRecordManagement\.vs\MedicalRecordManagement\lut\0\i\APIS\Debug\APIS.csproj.CopyComplete
+D:\Evaluation\POC\MedicalRecordManagement\.vs\MedicalRecordManagement\lut\0\i\APIS\Debug\APIS.dll

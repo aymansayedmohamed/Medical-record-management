@@ -1,0 +1,5 @@
+D:\Evaluation\POC\MedicalRecordManagement\.vs\MedicalRecordManagement\lut\0\b\Models\bin\Debug\Models.dll
+D:\Evaluation\POC\MedicalRecordManagement\.vs\MedicalRecordManagement\lut\0\i\Models\Debug\Models.csproj.CoreCompileInputs.cache
+D:\Evaluation\POC\MedicalRecordManagement\.vs\MedicalRecordManagement\lut\0\i\Models\Debug\Models.csproj.CopyComplete
+D:\Evaluation\POC\MedicalRecordManagement\.vs\MedicalRecordManagement\lut\0\i\Models\Debug\Models.dll
+D:\Evaluation\POC\MedicalRecordManagement\.vs\MedicalRecordManagement\lut\0\i\Models\Debug\Models.csprojAssemblyReference.cache

@@ -1,0 +1,16 @@
+D:\Evaluation\POC\MedicalRecordManagement\Models\bin\Debug\Models.dll
+D:\Evaluation\POC\MedicalRecordManagement\Models\bin\Debug\Models.pdb
+D:\Evaluation\POC\MedicalRecordManagement\Models\bin\Debug\DnsClient.dll
+D:\Evaluation\POC\MedicalRecordManagement\Models\bin\Debug\MongoDB.Bson.dll
+D:\Evaluation\POC\MedicalRecordManagement\Models\bin\Debug\MongoDB.Driver.Core.dll
+D:\Evaluation\POC\MedicalRecordManagement\Models\bin\Debug\MongoDB.Driver.dll
+D:\Evaluation\POC\MedicalRecordManagement\Models\bin\Debug\System.Buffers.dll
+D:\Evaluation\POC\MedicalRecordManagement\Models\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Evaluation\POC\MedicalRecordManagement\Models\bin\Debug\DnsClient.xml
+D:\Evaluation\POC\MedicalRecordManagement\Models\bin\Debug\MongoDB.Bson.xml
+D:\Evaluation\POC\MedicalRecordManagement\Models\bin\Debug\MongoDB.Driver.xml
+D:\Evaluation\POC\MedicalRecordManagement\Models\bin\Debug\MongoDB.Driver.Core.xml
+D:\Evaluation\POC\MedicalRecordManagement\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\Evaluation\POC\MedicalRecordManagement\Models\obj\Debug\Models.csproj.CopyComplete
+D:\Evaluation\POC\MedicalRecordManagement\Models\obj\Debug\Models.dll
+D:\Evaluation\POC\MedicalRecordManagement\Models\obj\Debug\Models.pdb

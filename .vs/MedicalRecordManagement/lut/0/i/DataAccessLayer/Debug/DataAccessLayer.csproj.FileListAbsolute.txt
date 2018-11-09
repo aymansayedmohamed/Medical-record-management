@@ -1,0 +1,1 @@
+D:\Evaluation\POC\MedicalRecordManagement\.vs\MedicalRecordManagement\lut\0\i\DataAccessLayer\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache

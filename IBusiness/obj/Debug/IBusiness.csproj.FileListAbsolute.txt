@@ -1,0 +1,11 @@
+D:\Evaluation\POC\MedicalRecordManagement\IBusiness\bin\Debug\IBusiness.dll
+D:\Evaluation\POC\MedicalRecordManagement\IBusiness\bin\Debug\IBusiness.pdb
+D:\Evaluation\POC\MedicalRecordManagement\IBusiness\bin\Debug\Models.dll
+D:\Evaluation\POC\MedicalRecordManagement\IBusiness\bin\Debug\MongoDB.Bson.dll
+D:\Evaluation\POC\MedicalRecordManagement\IBusiness\bin\Debug\Models.pdb
+D:\Evaluation\POC\MedicalRecordManagement\IBusiness\bin\Debug\MongoDB.Bson.xml
+D:\Evaluation\POC\MedicalRecordManagement\IBusiness\obj\Debug\IBusiness.csprojAssemblyReference.cache
+D:\Evaluation\POC\MedicalRecordManagement\IBusiness\obj\Debug\IBusiness.csproj.CoreCompileInputs.cache
+D:\Evaluation\POC\MedicalRecordManagement\IBusiness\obj\Debug\IBusiness.csproj.CopyComplete
+D:\Evaluation\POC\MedicalRecordManagement\IBusiness\obj\Debug\IBusiness.dll
+D:\Evaluation\POC\MedicalRecordManagement\IBusiness\obj\Debug\IBusiness.pdb

@@ -1,0 +1,4 @@
+D:\Evaluation\POC\MedicalRecordManagement\.vs\MedicalRecordManagement\lut\0\b\IDataAccessLayer\bin\Debug\IDataAccessLayer.dll
+D:\Evaluation\POC\MedicalRecordManagement\.vs\MedicalRecordManagement\lut\0\i\IDataAccessLayer\Debug\IDataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Evaluation\POC\MedicalRecordManagement\.vs\MedicalRecordManagement\lut\0\i\IDataAccessLayer\Debug\IDataAccessLayer.csproj.CopyComplete
+D:\Evaluation\POC\MedicalRecordManagement\.vs\MedicalRecordManagement\lut\0\i\IDataAccessLayer\Debug\IDataAccessLayer.dll
